@@ -20,7 +20,7 @@ A análise processou uma amostra de **120 alunos** para identificar padrões de 
 | :---: | :---: |
 | ![Impacto do Trabalho](plots/boxplot_trabalha.png) | ![Eficácia da Monitoria](plots/boxplot_monitoria.png) |
 
-> 📄 **Confira o [Relatório Completo](relatorio.md)** para uma análise detalhada das propostas de intervenção e cruzamento de variáveis.
+> 📄 **Confira o [Relatório Completo](doc/relatorio.md)** para uma análise detalhada das propostas de intervenção e cruzamento de variáveis.
 
 ### 2\. Tabela de Eficácia da Monitoria
 
