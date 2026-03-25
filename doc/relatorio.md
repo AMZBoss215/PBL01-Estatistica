@@ -11,7 +11,7 @@ A coordenação dos cursos de tecnologia identificou um padrão preocupante de r
 * **Trabalho:** A maioria da turma (**58,33%**) concilia os estudos com atividade profissional.
 * **Satisfação:** O nível geral de satisfação concentra-se na nota **3**, conforme o gráfico abaixo, indicando um sentimento neutro em relação ao curso.
 
-![Tabela de Satisfação](plots/barplot_satisfacao.png)
+![Tabela de Satisfação](../plots/barplot_satisfacao.png)
 
 ### 2.2 Distribuição de Notas e Zona de Risco
 
@@ -20,7 +20,7 @@ A coordenação dos cursos de tecnologia identificou um padrão preocupante de r
 
 | Distribuição das Notas | Ogiva de Galton (Risco Acumulado) |
 | :---: | :---: |
-| ![Distribuição das Notas](plots/hist_notas.png) | ![Ogiva de Galton (Risco Acumulado)](plots/ogiva_notas.png) |
+| ![Distribuição das Notas](../plots/hist_notas.png) | ![Ogiva de Galton (Risco Acumulado)](../plots/ogiva_notas.png) |
 
 ## 🔍 3. Cruzamento de Variáveis Estratégicas
 
@@ -31,7 +31,7 @@ A coordenação dos cursos de tecnologia identificou um padrão preocupante de r
 
 | Impacto do Trabalho | Eficácia da Monitoria |
 | :---: | :---: |
-| ![Impacto do Trabalho](plots/boxplot_trabalha.png) | ![Eficácia da Monitoria](plots/boxplot_monitoria.png) |
+| ![Impacto do Trabalho](../plots/boxplot_trabalha.png) | ![Eficácia da Monitoria](../plots/boxplot_monitoria.png) |
 
 ## 💡 4. Propostas de Intervenção
 
