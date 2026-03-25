@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # --- RStudio & R Specific ---
 .Rhistory        # Histórico de comandos do console
 .RData           # Dados da área de trabalho (podem ser pesados e voláteis)
@@ -18,3 +19,9 @@ data/alunos_curso.csv
 # Evitar subir arquivos de log ou temporários
 *.log
 *.tmp
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+>>>>>>> 014d5ca (feat: conclusao da analise estatistica PBL 01)
