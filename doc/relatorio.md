@@ -54,5 +54,7 @@ Cruzando esses dados com o perfil socioeconômico, observamos que a maioria da t
 ### 📚 Bibliografia
 
 BUSSAB, W. O.; MORETTIN, P. A. — *Estatística Básica*, 9ª ed. Saraiva, 2017.
+
 WICKHAM, H.; GROLEMUND, G. — *R for Data Science*. O'Reilly, 2023.
+
 HEALY, K. — *Data Visualization: A Practical Introduction*. Princeton University Press, 2018.
