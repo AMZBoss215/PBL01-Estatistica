@@ -38,20 +38,21 @@ A coordenação dos cursos de tecnologia identificou um padrão preocupante de r
 ### 4.1 Monitoria Híbrida e Assíncrona
 
   * **Público:** Alunos que trabalham (**58,33%**).
-  * **Ação:** Implementar plantões remotos e repositório de vídeos para mitigar choques de horário.
+  * **Ação:** Implementar plantões assíncronos (via Discord, Teams ou similar) para melhor atendê-los,  e repositório de vídeos para mitigar choques de horário.
 
 ### 4.2 Programa de Engajamento Ativo
 
   * **Público:** Alunos em risco (**46%**) e calouros.
-  * **Ação:** Busca ativa de alunos no primeiro quartil de notas para grupos de estudo dirigidos.
+  * **Ação:** Busca ativa de alunos no primeiro quartil de notas para grupos de estudo dirigidos, a fim de abordar  conceitos básicos de estatística descritiva e uso do R.
 
-### 🛠️ Tecnologias Utilizadas
+### 🏁 Conclusão e Recomendações Estratégicas
 
--   **Linguagem:** R
--   **Ambiente:** RStudio
--   **Documentação:** Markdown
+A análise exploratória revelou um cenário de alerta para a retenção acadêmica na disciplina. A **Ogiva de Galton** quantificou com precisão que **46% dos estudantes** encontram-se abaixo da média de aprovação (6.0), evidenciando um risco iminente de evasão ou reprovação em massa.
 
------
-**Obs.:** Trabalho apresentado como requisito avaliativo na disciplina Probabilidade e Estatística, ministrada pelo Prof. Hidelbrando Ferreira Rodrigues, no Curso de Engenharia de Software do Instituto de Ciências Exatas e Tecnologia-ICET de Itacoatiara/AM, Universidade Federal do Amazonas-UFAM
+Cruzando esses dados com o perfil socioeconômico, observamos que a maioria da turma (**58,33%**) concilia os estudos com o trabalho, o que correlaciona com a baixa adesão à monitoria presencial. Entretanto, o ganho de desempenho para quem utiliza o suporte acadêmico é notável, com uma média de **6,28** contra **5,65** dos demais.
 
-**Discente**: Raul Berger de Andrade Lima
+### 📚 Referências e Materiais de Apoio
+
+* **Estatística Básica:** BUSSAB, W. O.; MORETTIN, P. A. — *Estatística Básica*, 9ª ed. Saraiva, 2017.
+* **Ciência de Dados com R:** WICKHAM, H.; GROLEMUND, G. — *R for Data Science*. O'Reilly, 2023.
+* **Visualização de Dados:** HEALY, K. — *Data Visualization: A Practical Introduction*. Princeton University Press, 2018.
