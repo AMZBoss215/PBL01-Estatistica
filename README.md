@@ -30,5 +30,6 @@ A análise processou uma amostra de **120 alunos** para identificar padrões de 
 
 -----
 **Obs.:** Trabalho apresentado como requisito avaliativo na disciplina Probabilidade e Estatística, ministrada pelo Prof. Hidelbrando Ferreira Rodrigues, no Curso de Engenharia de Software do Instituto de Ciências Exatas e Tecnologia-ICET de Itacoatiara/AM, Universidade Federal do Amazonas-UFAM
+**Nota:** Parte do relatório apresentado foi elaborada e revisada utilizando inteligência artificial
 
 **Discente**: Raul Berger de Andrade Lima
