@@ -42,14 +42,14 @@ A coordenação dos cursos de tecnologia identificou um padrão preocupante de r
 
 ### 4.2 Programa de Engajamento Ativo
 
-  * **Público:** Alunos em risco (**46%**) e calouros.
+  * **Público:** Alunos em risco (**46%**) e calouros (**Moda** de **18 anos**).
   * **Ação:** Busca ativa de alunos no primeiro quartil de notas para grupos de estudo dirigidos, a fim de abordar  conceitos básicos de estatística descritiva e uso do R.
 
 ### 🏁 Conclusão
 
 A análise exploratória revelou um cenário de alerta para a retenção acadêmica na disciplina. A **Ogiva de Galton** quantificou com precisão que **46% dos estudantes** encontram-se abaixo da média de aprovação (6.0), evidenciando um risco iminente de evasão ou reprovação em massa.
 
-Cruzando esses dados com o perfil socioeconômico, observamos que a maioria da turma (**58,33%**) concilia os estudos com o trabalho, o que correlaciona com a baixa adesão à monitoria presencial. Entretanto, o ganho de desempenho para quem utiliza o suporte acadêmico é notável, com uma média de **6,28** contra **5,65** dos demais.
+Cruzando esses dados com o perfil socioeconômico, observamos que a maioria da turma (**58,33%**) concilia os estudos com o trabalho, o que correlaciona com a baixa adesão à monitoria presencial (**média de 6,15**). Entretanto, o ganho de desempenho para quem utiliza o suporte acadêmico é notável, com uma média de **6,28** contra **5,65** dos demais.
 
 ### 📚 Bibliografia
 
@@ -58,3 +58,7 @@ BUSSAB, W. O.; MORETTIN, P. A. — *Estatística Básica*, 9ª ed. Saraiva, 2017
 WICKHAM, H.; GROLEMUND, G. — *R for Data Science*. O'Reilly, 2023.
 
 HEALY, K. — *Data Visualization: A Practical Introduction*. Princeton University Press, 2018.
+
+### ⚠️ Observação
+
+Parte deste relatório foi elaborada e revisada com o auxílio de ferramentas de Inteligência Artificial
